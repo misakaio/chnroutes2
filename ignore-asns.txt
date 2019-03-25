@@ -9,6 +9,7 @@
 38248   VTC-VN
 45382   EHOSTIDC
 56300   MyRepublic Ltd
+58453   China Mobile International Limited
 131279  Ryugyong-dong
 132132  MyRepublic Ltd
 132513  Sky Telecom State Company
