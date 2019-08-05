@@ -1,5 +1,5 @@
-# 18332301 routes were dumped from us-sjc04-rs02-a at Tue Aug  6 05:10:40 HKT 2019.
-# Found 30348 routes matching, aggregated to 3276.
+# 18290676 routes were dumped from us-sjc04-rs02-a at Tue Aug  6 06:10:32 HKT 2019.
+# Found 30347 routes matching, aggregated to 3276.
 1.1.8.0/24
 1.2.4.0/24
 1.18.128.0/24
@@ -1143,7 +1143,7 @@
 103.238.144.0/22
 103.238.160.0/22
 103.238.164.0/24
-103.238.180.0/23
+103.238.181.0/24
 103.238.184.0/24
 103.238.188.0/22
 103.238.204.0/22
