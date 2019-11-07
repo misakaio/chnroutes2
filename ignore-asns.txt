@@ -1,4 +1,5 @@
 4775    Globe Telecoms
+8529    Oman Telecommunications Company (S.A.O.G)
 9873    Lao Telecom Communication, LTC
 12850   ENTER S.r.l.
 18403   FPT-AS-AP
