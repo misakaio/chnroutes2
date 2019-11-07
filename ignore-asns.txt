@@ -1,6 +1,7 @@
 4775    Globe Telecoms
 8529    Oman Telecommunications Company (S.A.O.G)
 9873    Lao Telecom Communication, LTC
+10099   China Unicom Global
 12850   ENTER S.r.l.
 18403   FPT-AS-AP
 19174   China Unicom (Americas) Operations Ltd
