@@ -1,5 +1,5 @@
-# 10685393 routes were dumped from us-iad01-rs01cn-a at Tue Oct 13 17:00:04 UTC 2020.
-# Found 32581 routes matching, aggregated to 3513.
+# 10683150 routes were dumped from us-iad01-rs01cn-a at Tue Oct 13 18:00:04 UTC 2020.
+# Found 32586 routes matching, aggregated to 3511.
 1.1.8.0/24
 1.2.4.0/24
 1.8.1.0/24
@@ -2196,9 +2196,7 @@
 124.196.16.0/22
 124.196.20.0/24
 124.196.22.0/23
-124.196.24.0/23
-124.196.27.0/24
-124.196.28.0/22
+124.196.24.0/21
 124.196.40.0/22
 124.196.48.0/23
 124.196.56.0/23
