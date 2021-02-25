@@ -10,7 +10,7 @@ This data is licensed under the WTFPL.
 
 ## Feed Providers
 
-AS57695 Misaka Network, Inc.
-AS54574 DMIT
-AS134176 66.to
-AS138195 Moack
+- AS57695 Misaka Network, Inc.
+- AS54574 DMIT
+- AS134176 66.to
+- AS138195 Moack
