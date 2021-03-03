@@ -12,5 +12,6 @@ This data is licensed under the WTFPL.
 
 - AS57695 Misaka Network, Inc.
 - AS54574 DMIT
+- AS48024 Nerocloud
 - AS134176 66.to
 - AS138195 Moack
