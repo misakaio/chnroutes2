@@ -6,7 +6,7 @@ We update it every hour from our route collector.
 
 ## License
 
-This data is licensed under the WTFPL.
+This data is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/).
 
 ## Feed Providers
 
