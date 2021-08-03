@@ -3,6 +3,7 @@
 9873    Lao Telecom Communication, LTC
 10099   China Unicom Global
 12850   ENTER S.r.l.
+16345   BEE-AS
 18403   FPT-AS-AP
 19174   China Unicom (Americas) Operations Ltd
 19690   Hyatt Corporation
@@ -19,4 +20,4 @@
 138576  CodecCloud (HK) Limited, HK
 197407  CHINA UNICOM (EUROPE) OPERATIONS LIMITED
 4780    SEEDNET
-64050	BGP.NET
+64050	  BGP.NET
