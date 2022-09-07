@@ -10,8 +10,8 @@ This data is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-s
 
 ## Feed Providers
 
-- AS57695 Misaka Network, Inc.
-- AS54574 DMIT
-- AS48024 Nerocloud
-- AS134176 66.to
-- AS138195 Moack
+- AS917 [Misaka Network, Inc.](https://www.misaka.io)
+- AS906 [DMIT Inc.](https://www.dmit.io)
+- AS48024 [Nerocloud](https://nerocloud.io/)
+- AS131477 [Shanghai Huajuan Information Technology Co., Ltd.](https://www.betaidc.com/)
+- AS138195 [MOACK.Co.LTD](https://www.moack.co.kr/)
