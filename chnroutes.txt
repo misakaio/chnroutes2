@@ -1,5 +1,5 @@
-# 14088066 routes were dumped from us-iad01-rs01cn-b at Thu Jan  5 17:00:03 UTC 2023.
-# Found 47501 routes matching, aggregated to 3603.
+# 14172018 routes were dumped from us-iad01-rs01cn-b at Thu Jan  5 18:00:03 UTC 2023.
+# Found 47512 routes matching, aggregated to 3599.
 1.1.8.0/24
 1.2.4.0/24
 1.8.1.0/24
@@ -1654,10 +1654,6 @@
 114.115.0.0/16
 114.116.0.0/15
 114.118.0.0/17
-114.119.10.0/24
-114.119.32.0/24
-114.119.35.0/24
-114.119.36.0/24
 114.119.40.0/23
 114.119.116.0/22
 114.119.124.0/24
