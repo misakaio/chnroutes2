@@ -12,6 +12,5 @@ This data is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-s
 
 - AS917 [Misaka Network, Inc.](https://www.misaka.io)
 - AS906 [DMIT Inc.](https://www.dmit.io)
-- AS48024 [Nerocloud](https://nerocloud.io/)
 - AS131477 [Shanghai Huajuan Information Technology Co., Ltd.](https://www.betaidc.com/)
 - AS138195 [MOACK.Co.LTD](https://www.moack.co.kr/)
